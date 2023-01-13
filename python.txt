@@ -1,0 +1,2 @@
+Python is open source
+It has community support
